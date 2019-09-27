@@ -194,7 +194,7 @@ Amplitude.init({
         artist: "Abel Hancock",
         album: "Rising Free (Original Motion Picture Sountrack)",
         url:
-          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/audio/23%20The%20Turn%20%26%20The%20Frontier.mp3,
+          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/audio/23%20The%20Turn%20%26%20The%20Frontier.mp3",
         cover_art_url:
           "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/images/Rising-Free-Soundtrack-Cover.jpg"
       },
@@ -220,7 +220,7 @@ Amplitude.init({
 
     playlists: {
       risingFree: {
-        songs: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25],
+        songs: [0],
         title: "Rising Free"
       }
     },
