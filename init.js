@@ -113,7 +113,16 @@ Amplitude.init({
         artist: "Abel Hancock",
         album: "Rising Free (Original Motion Picture Sountrack)",
         url:
-          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/audio/14%20The%20Cry.mp3",
+          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/audio/13%20The%20Cry.mp3",
+        cover_art_url:
+          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/images/Rising-Free-Soundtrack-Cover.jpg"
+      },
+      {
+        name: "The Love Letter",
+        artist: "Abel Hancock",
+        album: "Rising Free (Original Motion Picture Sountrack)",
+        url:
+          "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/audio/14%20The%20Love%20Letter.mp3",
         cover_art_url:
           "https://raw.githubusercontent.com/abelhancock/rising-free-soundtrack/master/images/Rising-Free-Soundtrack-Cover.jpg"
       },
@@ -220,7 +229,7 @@ Amplitude.init({
 
     playlists: {
       risingFree: {
-        songs: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+        songs: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
         title: "Rising Free"
       }
     },
